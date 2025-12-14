@@ -40,9 +40,9 @@ Each vulnerability can be tested manually via browser inputs.
 ```
 owasp-top10-web-scanner/
 │
-├── app.py               # Vulnerable Flask application
-├── requirements.txt     # Python dependencies
-├── templates/           # HTML templates (if added)
+├── app.py               
+├── requirements.txt    
+├── templates/           
 ├── .gitignore
 └── README.md
 ```
@@ -140,3 +140,4 @@ B.Tech – Cyber Security & Cyber Forensics
 ---
 
 ⭐ If this project helped you, consider starring the repository!
+
