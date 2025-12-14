@@ -35,8 +35,9 @@ Each vulnerability can be tested manually via browser inputs.
 
 ---
 
- 📁 Project Structure
+## 📁 Project Structure
 
+```
 owasp-top10-web-scanner/
 │
 ├── app.py               # Vulnerable Flask application
@@ -44,7 +45,9 @@ owasp-top10-web-scanner/
 ├── templates/           # HTML templates (if added)
 ├── .gitignore
 └── README.md
+```
 
+---
 
 ## ⚙️ Setup & Run (Windows)
 
@@ -131,11 +134,9 @@ Input in login fields:
 
 ## 👨‍💻 Author
 
-Srujan M V
+**Srujan M V**
 B.Tech – Cyber Security & Cyber Forensics
 
 ---
 
 ⭐ If this project helped you, consider starring the repository!
-
-
